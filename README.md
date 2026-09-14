@@ -1,7 +1,7 @@
 # Snore Detector 更新通道 / release channel
 
 这里只放**已签名的安装包和版本清单**，不含任何源代码。
-App 内 Settings → Updates 读取 `version.json`，需要更新时下载 Release 上的 APK，
+App 内「我的 → 检查更新」读取 `version.json`，需要更新时下载 Release 上的 APK，
 再交给系统安装器完成升级。
 
 ## 文件
